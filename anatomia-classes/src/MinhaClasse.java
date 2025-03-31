@@ -4,3 +4,5 @@ public class MinhaClasse {
     System.out.println("Texto teste sintáxe básica do JAVÃO da massa!");
   }
 }
+
+
